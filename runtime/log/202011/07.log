@@ -1,0 +1,1492 @@
+---------------------------------------------------------------
+[ 2020-11-07T12:26:21+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.007950s] [吞吐率：125.79req/s] [内存消耗：1,024.61kb] [文件加载：26]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:47:31+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.006794s] [吞吐率：147.19req/s] [内存消耗：1,025.78kb] [文件加载：28]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:56:43+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.032188s] [吞吐率：31.07req/s] [内存消耗：1,069.85kb] [文件加载：30]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting '{'[G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php:5]
+---------------------------------------------------------------
+[ 2020-11-07T12:56:51+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.007080s] [吞吐率：141.24req/s] [内存消耗：1,071.71kb] [文件加载：31]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\admin\controller\Base' not found[G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php:5]
+---------------------------------------------------------------
+[ 2020-11-07T12:57:04+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.029430s] [吞吐率：33.98req/s] [内存消耗：1,517.15kb] [文件加载：39]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:04+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.009764s] [吞吐率：102.42req/s] [内存消耗：1,432.74kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:04+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/css/x-admin.css
+[运行时间：0.008758s] [吞吐率：114.18req/s] [内存消耗：1,324.16kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/welcome.html',
+  'dnt' => '1',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:05+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/js/x-admin.js
+[运行时间：0.015947s] [吞吐率：62.71req/s] [内存消耗：1,324.05kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/welcome.html',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:05+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/lib/layui/layui.js
+[运行时间：0.010233s] [吞吐率：97.72req/s] [内存消耗：1,324.27kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'lib',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/welcome.html',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+  'layui' => 'layui.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:05+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/js/x-admin.js
+[运行时间：0.008550s] [吞吐率：116.96req/s] [内存消耗：1,324.05kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/welcome.html',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:08+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.008467s] [吞吐率：118.11req/s] [内存消耗：1,372.16kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725026',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:08+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.008112s] [吞吐率：123.27req/s] [内存消耗：1,292.53kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725026',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:08+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/lib/layui/layui.js
+[运行时间：0.009760s] [吞吐率：102.46req/s] [内存消耗：1,325.02kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'lib',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725026',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/welcome.html',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+  'layui' => 'layui.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:09+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/js/x-admin.js
+[运行时间：0.010969s] [吞吐率：91.16req/s] [内存消耗：1,324.68kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725026',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/welcome.html',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:28+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.010375s] [吞吐率：96.39req/s] [内存消耗：1,518.32kb] [文件加载：39]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725029',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:28+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.008356s] [吞吐率：119.67req/s] [内存消耗：1,292.53kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725029',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:28+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/lib/layui/layui.js
+[运行时间：0.010193s] [吞吐率：98.11req/s] [内存消耗：1,325.02kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'lib',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725029',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/welcome.html',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+  'layui' => 'layui.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:28+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/css/x-admin.css
+[运行时间：0.010334s] [吞吐率：96.77req/s] [内存消耗：1,324.91kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725029',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/welcome.html',
+  'dnt' => '1',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:57:29+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/js/x-admin.js
+[运行时间：0.009983s] [吞吐率：100.17req/s] [内存消耗：1,324.68kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725029',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/welcome.html',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:58:07+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.009517s] [吞吐率：105.07req/s] [内存消耗：1,518.32kb] [文件加载：39]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:58:07+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.010102s] [吞吐率：98.99req/s] [内存消耗：1,433.48kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:58:55+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.010593s] [吞吐率：94.40req/s] [内存消耗：1,518.36kb] [文件加载：39]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:58:55+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.009951s] [吞吐率：100.49req/s] [内存消耗：1,433.70kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:58:56+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/manager/list.html
+[运行时间：0.007487s] [吞吐率：133.56req/s] [内存消耗：1,074.52kb] [文件加载：31]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'manager',
+    2 => 'list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\admin\controller\Base' not found[G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Manager.php:8]
+---------------------------------------------------------------
+[ 2020-11-07T12:59:08+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.010667s] [吞吐率：93.75req/s] [内存消耗：1,518.36kb] [文件加载：39]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:59:08+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.008149s] [吞吐率：122.71req/s] [内存消耗：1,292.75kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:59:09+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/manager/list.html
+[运行时间：0.008907s] [吞吐率：112.27req/s] [内存消耗：1,326.96kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'manager',
+    2 => 'list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:59:47+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.008654s] [吞吐率：115.56req/s] [内存消耗：1,372.20kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:59:47+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.008274s] [吞吐率：120.86req/s] [内存消耗：1,292.75kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T12:59:48+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/manager/list.html
+[运行时间：0.008655s] [吞吐率：115.54req/s] [内存消耗：1,326.96kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'manager',
+    2 => 'list',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:00:07+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.010688s] [吞吐率：93.56req/s] [内存消耗：1,518.36kb] [文件加载：39]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:00:07+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.008799s] [吞吐率：113.65req/s] [内存消耗：1,292.75kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:00:08+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/manager/index.html
+[运行时间：0.009401s] [吞吐率：106.37req/s] [内存消耗：1,446.85kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'manager',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Manager->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Manager.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\manager\list.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:00:38+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/login
+[运行时间：0.009567s] [吞吐率：104.53req/s] [内存消耗：1,432.88kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->login[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:00:38+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/css/x-admin.css
+[运行时间：0.008834s] [吞吐率：113.20req/s] [内存消耗：1,324.91kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/login',
+  'dnt' => '1',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:00:38+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/lib/layui/layui.js
+[运行时间：0.008822s] [吞吐率：113.35req/s] [内存消耗：1,325.02kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'lib',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/login',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+  'layui' => 'layui.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:00:39+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/images/logo.png
+[运行时间：0.009498s] [吞吐率：105.29req/s] [内存消耗：1,324.96kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/login',
+  'dnt' => '1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:01:30+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/login
+[运行时间：0.010187s] [吞吐率：98.16req/s] [内存消耗：1,429.31kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->login[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:01:30+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/images/logo.png
+[运行时间：0.009115s] [吞吐率：109.71req/s] [内存消耗：1,324.96kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/login',
+  'dnt' => '1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:01:40+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.008639s] [吞吐率：115.76req/s] [内存消耗：1,372.20kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T13:01:40+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.009527s] [吞吐率：104.97req/s] [内存消耗：1,292.75kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T14:20:02+08:00 ] 127.0.0.1 GET www.qiye.com/
+[运行时间：0.007383s] [吞吐率：135.45req/s] [内存消耗：1,025.33kb] [文件加载：26]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T14:20:13+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/login
+[运行时间：0.009150s] [吞吐率：109.29req/s] [内存消耗：1,292.05kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'purpose' => 'prefetch',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->login[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T14:20:13+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/login
+[运行时间：0.007867s] [吞吐率：127.11req/s] [内存消耗：1,292.05kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'purpose' => 'prefetch',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->login[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T14:20:13+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/login
+[运行时间：0.026768s] [吞吐率：37.36req/s] [内存消耗：1,292.05kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'purpose' => 'prefetch',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->login[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T14:20:15+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php
+[运行时间：0.009217s] [吞吐率：108.49req/s] [内存消耗：1,371.87kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T14:20:15+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/welcome.html
+[运行时间：0.007993s] [吞吐率：125.11req/s] [内存消耗：1,292.75kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php',
+  'dnt' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T14:20:19+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/login
+[运行时间：0.008335s] [吞吐率：119.97req/s] [内存消耗：1,292.05kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/',
+  'dnt' => '1',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'purpose' => 'prefetch',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->login[ G:\phpStudy_pro\WWW\www.qiye.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudy_pro\WWW\www.qiye.com\public/../application/admin\view\index\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-07T14:20:20+08:00 ] 127.0.0.1 GET www.qiye.com/admin.php/index/images/logo.png
+[运行时间：0.009348s] [吞吐率：106.98req/s] [内存消耗：1,324.96kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy_pro\WWW\www.qiye.com\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=5915261952; pgv_si=s6529397760; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1604725026; Hm_lpvt_b393d153aeb26b46e9431fabaf0f6190=1604725050',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.qiye.com/admin.php/index/login',
+  'dnt' => '1',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000',
+  'connection' => 'close',
+  'host' => 'www.qiye.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
